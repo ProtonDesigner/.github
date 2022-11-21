@@ -1,4 +1,4 @@
-<img src="Proton%20Github%20Banner.png"/>
+<img src="https://github.com/ProtonDesigner/.github/blob/main/profile/Proton%20Github%20Banner.png?raw=true"/>
 <h1 align="center">Proton</h1>
 <p align="center">Aiming to make prototyping and designing faster.</p>
 
