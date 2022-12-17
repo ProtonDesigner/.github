@@ -9,7 +9,7 @@ This is the public organzation filled with all of Proton's code, including the c
 ---
 
 ### Repos
-[**core**](https://github.com/ProtonDesigner/core): This is the core repository with all of the app's code. It is written in ElectronJS along with ReactJS.
+[**rewrite**](https://github.com/ProtonDesigner/rewrite): Proton Rewrite (because I wasn't too happy with the old version)
 
 ---
 More to come :eyes:
