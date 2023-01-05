@@ -1,6 +1,6 @@
 <img src="https://github.com/ProtonDesigner/.github/blob/main/profile/Proton%20banner.png?raw=true"/>
 <h1 align="center">Proton</h1>
-<p align="center">Aiming to make prototyping and designing faster.</p>
+<p align="center">Aiming to make application design and development faster.</p>
 
 ---
 
@@ -9,7 +9,7 @@ This is the public organzation filled with all of Proton's code, including the c
 ---
 
 ### Repos
-[**rewrite**](https://github.com/ProtonDesigner/rewrite): Proton Rewrite (because I wasn't too happy with the old version)
+[**core**](https://github.com/ProtonDesigner/core): Core Proton Application written in React + Electron + TypeScript
 
 ---
 More to come :eyes:
