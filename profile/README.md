@@ -11,6 +11,11 @@ This is the public organzation filled with all of Proton's code, including the c
 ### Repos
 [**core**](https://github.com/ProtonDesigner/core): Core Proton Application written in React + Electron + TypeScript
 
+### Contact
+I have a Discord server now, please join if you want support, to suggest an idea, to showcase a project in Proton, or to join the community!
+
+https://discord.gg/xvACqqYDer
+
 ---
 More to come :eyes:
 
